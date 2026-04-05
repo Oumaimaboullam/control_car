@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
